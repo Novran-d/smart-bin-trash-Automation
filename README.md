@@ -1,7 +1,3 @@
-git add <Neat.jpg>
-git add images/Neat.jpg
-git commit -m "Menambahkan gambar sketsa sirkuit"
-git push origin main
 
 
 
@@ -45,7 +41,8 @@ Motor servo bergerak untuk membuka atau menutup penutup berdasarkan jarak yang t
 
 ## Circuit Schematic:
 
-![Sketsa Sirkuit](img/Neat.jpg)
+![Neat](https://github.com/user-attachments/assets/acf723ee-8832-4bd9-afd1-d13451949d71)
+
 
 ## Sketch Code Program:
 
