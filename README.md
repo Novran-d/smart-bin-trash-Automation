@@ -3,6 +3,11 @@
 gambar skecth sirkuit PENGEMBANGAN TEMPAT SAMPAH OTOMATIS BERBASIS ARDUINO DENGAN SENSOR ULTRASONIC “SMART TRASH BIN“
 
 
+## Circuit Schematic:
+
+![Neat](https://github.com/user-attachments/assets/acf723ee-8832-4bd9-afd1-d13451949d71)
+
+
 ## Komponen" Yang Dibutuhkan (Tools & Materials):
 
 • Arduino Uno = 1 unit- Mikrokomputer yang akan mengendalikan seluruh sistem.
@@ -36,9 +41,7 @@ Arduino memproses data dan mengirimkan sinyal ke motor servo.
 Motor servo bergerak untuk membuka atau menutup penutup berdasarkan jarak yang terdeteksi.
 
 
-## Circuit Schematic:
 
-![Neat](https://github.com/user-attachments/assets/acf723ee-8832-4bd9-afd1-d13451949d71)
 
 
 ## Sketch Code Program:
