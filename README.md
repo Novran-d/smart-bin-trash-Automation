@@ -37,7 +37,7 @@ Motor servo bergerak untuk membuka atau menutup penutup berdasarkan jarak yang t
 
 ## Circuit Schematic:
 
-![Circuit-Schematic](img/Neat.jpg)
+![Sketsa Sirkuit](img/Neat.jpg)
 
 ## Sketch Code Program:
 
