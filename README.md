@@ -1,7 +1,4 @@
 
-
-
-
 # smart-bin-trash-Automation dengan arduino uno
 gambar skecth sirkuit PENGEMBANGAN TEMPAT SAMPAH OTOMATIS BERBASIS ARDUINO DENGAN SENSOR ULTRASONIC “SMART TRASH BIN“
 
@@ -101,7 +98,3 @@ void loop()
   delay(100);
 }
 ```
-
-## Conclusion:
-
-- If the intensity of sunlight hitting this sensor decreases, the output from the LDR will be read by the Arduino and the lighting will activate itself and vice versa, if the intensity of sunlight hitting this sensor increases, then the output from the LDR will be read by the Arduino and the lighting will turn itself off. .
