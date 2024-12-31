@@ -1,3 +1,11 @@
+git add <Neat.jpg>
+git add images/Neat.jpg
+git commit -m "Menambahkan gambar sketsa sirkuit"
+git push origin main
+
+
+
+
 # smart-bin-trash-Automation dengan arduino uno
 gambar skecth sirkuit PENGEMBANGAN TEMPAT SAMPAH OTOMATIS BERBASIS ARDUINO DENGAN SENSOR ULTRASONIC “SMART TRASH BIN“
 
